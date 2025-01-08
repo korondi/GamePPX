@@ -1,0 +1,1 @@
+print('Game PETRA PSALIDI XARTI');
